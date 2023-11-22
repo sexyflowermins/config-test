@@ -3,5 +3,5 @@ server:
   port: 8080
 
 a: kimminwoo
-  kim: minwoo
-    min: woo
+kim: minwoo
+min: woo
